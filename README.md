@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eyuzikfr
 - 👀 I’m interested in game development.
-- 🌱 I’m learning JavaScript, C#, and Ruby on Rails.
-- 💞️ I’m looking to collaborate on game development and web application projects.
+- 🌱 I’m learning React as a part of my MERN stack journey.
+- 💞️ I’m looking to collaborate on web development projects and, shortly, on game development and web application projects.
 - 📫 You can contact me via Gmail: eyuzikchhunzu2@gmail.com
 
 <!---
